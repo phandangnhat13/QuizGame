@@ -15,6 +15,6 @@ This is a simple command-line quiz game that challenges users to answer question
 3. Set up the Google Sheets API and download your secret_key.json.
 
 ## Run the Game
-Execute the script:
+Run in terminal:
   ```bash
    python Quiz_Game.py
